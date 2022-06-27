@@ -1,0 +1,9 @@
+Project Details:
+C Programming - Done
+CPP Programming - Done
+Java - Done
+Python - in progress
+R Programming - in progess
+Scala - in progress
+Ruby - yet to start
+Perl - yet to start
