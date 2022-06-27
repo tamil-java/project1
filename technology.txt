@@ -7,3 +7,4 @@ R Programming - in progess
 Scala - in progress
 Ruby - yet to start
 Perl - yet to start
+Hadoop- started
